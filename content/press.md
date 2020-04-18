@@ -13,6 +13,8 @@ title: Press
 #### 2009
 * [**RPC Mag:** Passing the IT Torch](https://rcpmag.com/Articles/2009/11/01/Passing-the-Torch.aspx?Page=3)
 
+* [**IT Business:** Conamex International named Solution Provider of the Year at the Channel Elite Awards](https://www.itbusiness.ca/cea/winners2009/Conamex.asp)
+
 * [**Channel Daily News:** Conamex named Solution Provider of the Year](https://channeldailynews.com/news/conamex-named-solution-provider-of-the-year/8854)
 
 #### 2008
