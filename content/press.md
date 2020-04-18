@@ -1,119 +1,32 @@
+---
+title: Press
+---
 
-Conamex International1	Skip Navigation Links
-Management
-Software
-SOS Security
-ERP
-Company
+#### 2011
+* [**Microsoft News:** Microsoft Announces 2011 Partner of the Year Award Winners and Finalists](https://news.microsoft.com/2011/06/22/microsoft-announces-2011-partner-of-the-year-award-winners-and-finalists/)
 
-Press Releases - To be Redone - remove names
+#### 2010
+* [**Channel Daily News:** Many surprise winners at the Microsoft Impact Awards](https://channeldailynews.com/news/many-surprise-winners-at-the-microsoft-impact-awards/15657)
 
-Monday, March 06, 2017
+* [**Channel Daily News:** Conamex International's MOSS-based solution Grooves its way to success](https://channeldailynews.com/news/conamex-internationals-moss-based-solution-grooves-its-way-to-success/5008)
 
-11:24 AM
+#### 2009
+* [**RPC Mag:** Passing the IT Torch](https://rcpmag.com/Articles/2009/11/01/Passing-the-Torch.aspx?Page=3)
 
- 
+* [**Channel Daily News:** Conamex named Solution Provider of the Year](https://channeldailynews.com/news/conamex-named-solution-provider-of-the-year/8854)
 
-Winner-CDN (Channel Elite Awards) 2007 GOLD Winner Best Small Business Solution of the Year Read Press Release
+#### 2008
+* [**Computer World:** Asset management: Do you know what you've got?](https://www.computerworld.com/article/2532406/asset-management--do-you-know-what-you-ve-got-.html)
 
- 
+#### 2007
+* [**Channel Daily News:** 2007 GOLD Winner for Best Small Business Solution](https://channeldailynews.com/news/conpute-wins-top-prize-in-channel-elite-awards/14954)
 
-Winner-Microsoft 2007 Impact Awards for best Software Asset Management Solution of the Year and Small Business Specialist of the Year Read Press Release
+* [**Channel Daily News:** Kicking some IT butt](https://channeldailynews.com/news/kicking-some-it-butt/12839)
 
- 
+#### 2006
+* [**Microsoft News:** Partner of the Year Award Winners Announced at Microsoft's Worldwide Partner Conference](https://news.microsoft.com/2006/07/13/partner-of-the-year-award-winners-announced-at-microsofts-worldwide-partner-conference/)
 
-In The News-Conamex published article '2007 Impact Awards' Read the article
+* [**Channel Daily News:** 2006 GOLD Winner for Best Small Business Solution](https://channeldailynews.com/news/2006-channel-elite-awards-winners/7497)
 
- 
+* [**IT World Canada:** Ski resort cruises comfortably with asset management](http://www.itworldcanada.com/news/ski-resort-cruises-comfortably-with-asset-management/100804)
 
-Finalist-2007 Canadian CEA Channel Elite Awards - Canadian Small Business Solution of the Year Read Press Release
-
- 
-
-Finalist-Microsoft 2007 Impact Awards for best Software Asset Management Solution of the Year and Small Business Specialist of the Year Read Press Release
-
- 
-
-In The News-Conamex published article Read Press Release
-
- 
-
-In The News-Conamex published article 'Building the Virtual Sales Office' Read the article
-
- 
-
-Finalist-Microsoft 2007 Impact Awards for best Software Asset Management Solution of the Year and Small Business Specialist of the Year Read Press Release
-
- 
-
-Winner-2006 GOLD Canadian CEA Channel Elite Awards - Canadian Small Business Solution of the Year Read Press Release
-
- 
-
-Winner-the Technology Innovation Award at the Microsoft 2006 WorldWide Partner Conference Read Press Release
-
- 
-
-Achievement-Conamex goes Gold - Microsoft GOLD Partner! Read Press Release
-
- 
-
-Recognition-Robert Lesperance was chosen as a finalist for the TechNet Canada Innovation Award. Read Press Release
-
- 
-
-Achievement-Microsoft Mobility Competency. Read Press Release
-
- 
-
-Achievement-Microsoft Data Processing and Integration Competency. Read Press Release
-
- 
-
-Achievement-Microsoft Data Management Competency. Read Press Release
-
- 
-
-Achievement-Microsoft Information Worker Competency. Read Press Release
-
- 
-
-Achievement-Microsoft Licensing Competency - Software Asset Management. Read Press Release
-
- 
-
-Achievement-Conamex achieves Microsoft Small Business Specialist competency. Read Press Release
-
- 
-
-Achievement-Microsoft Network Infrastructure Compentency. Read Press Release
-
- 
-
-Winner-2005 Microsoft Impact Awards Read Press Release
-
- 
-
-Finalist-2005 Microsoft Impact Awards Read Press Release
-
- 
-
-Achievement-Conamex Celebrates 20th Anniversary. Read Press Release
-
- 
-
-Finalist-2004 Microsoft Impact Awards Read Press Release
-
- 
-
-Achievement-1999 Conamex International and Computer Associates
-
-Read Press Release
-
- 
-
-Winner-1995 Computer Associates/ACCPAC Developer Partner of the Year Award
-
- 
-
-© Copyright Conamex International Software Corporation
