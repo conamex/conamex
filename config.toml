@@ -2,8 +2,6 @@ baseURL = "http://conamex.com/"
 languageCode = "en-us"
 title = "CONAMEX International"
 theme = "minimal"
-disqusShortname = "username" # delete this to disable disqus comments
-googleAnalytics = ""
 
 [params]
     author = "Robert L'Esperance"
