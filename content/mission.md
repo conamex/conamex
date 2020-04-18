@@ -1,6 +1,5 @@
 ---
-title: Mission
-description: Conamex's Mission and Values Statement
+title: Mission And Values
 ---
 
 Over the last three decades, technology has transformed the way
@@ -81,5 +80,3 @@ new and existing partners.
 **At Conamex, we're committed to our mission of helping our
 customers scale new heights and achieve goals they never
 thought possible.**
-
-© Copyright Conamex International Software Corporation
