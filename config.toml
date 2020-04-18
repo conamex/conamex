@@ -5,7 +5,7 @@ theme = "minimal"
 
 [params]
     author = "Robert L'Esperance"
-    description = "Enabling People to Do New Things More Efficiently"
+    description = "Enabling People to Do New Things More Efficiently since 1985"
     accent = "darkblue"
     showBorder = true
     backgroundColor = "white"
