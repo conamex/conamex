@@ -1,4 +1,4 @@
-baseURL = "http://conamex.com/"
+baseURL = "https://conamex.com/"
 languageCode = "en-us"
 title = "CONAMEX International"
 theme = "minimal"

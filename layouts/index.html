@@ -1,0 +1,12 @@
+{{ partial "header" . }}
+
+<main>
+    <div class="intro">
+        <h1>{{ .Site.Title }}</h1>
+        <h2>{{ markdownify .Site.Params.Description }}</h2>
+        <img class="img" height="100" src="images/sage.jpg" />
+        <img class="img" height="100" src="images/microsoft-silver-certified-partner.jpg" />
+    </div>
+</main>
+
+{{ partial "footer" . }}
