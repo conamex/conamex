@@ -4,6 +4,7 @@ title: Membership Software
 
 {{< gallery-slider dir="/images/membership-software/" >}}
 
+
 1. Membership Maintenance - various methods for members to be created,
 web based signin, manually created internally.
     * Members status’s, type’s, address (history) etc.
