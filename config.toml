@@ -1,7 +1,6 @@
 baseURL = "https://conamex.com/"
 languageCode = "en-us"
 title = "CONAMEX International"
-theme = "minimal"
 
 [params]
     author = "Robert L'Esperance"

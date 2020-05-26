@@ -1,6 +1,6 @@
 # CONAMEX International Website
 
-This website was built with gohugo.io and the `minimal` theme.
+This website was built with gohugo.io
 
 ### install hugo
 
@@ -14,11 +14,4 @@ From this directory, you can run the website locally with the
 following command and then follow the output for `localhost:PORT`:
 ```
 hugo server -D
-```
-
-### updating dependencies
-
-To update the `minimal` theme submodule, you can run:
-```
-git submodule update --remote themes/minimal
 ```
