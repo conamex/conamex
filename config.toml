@@ -12,6 +12,9 @@ title = "CONAMEX International"
     highlight = true
     highlightStyle = "default"
 
+[markup.goldmark.renderer]
+  unsafe= true
+
 [[menu.main]]
     url = "/"
     name = "Home"
@@ -42,12 +45,15 @@ title = "CONAMEX International"
     name = "Press"
     weight = 6
 
-[[menu.icon]]
-    url = "mailto:software@conamex.com"
-    name = "envelope-o"
-    weight = 1
+[[menu.main]]
+    url = "/contact/"
+    name = "Contact Us"
+    weight = 7
 
 [[menu.icon]]
     url = "https://www.linkedin.com/company/conamex-international/about/"
     name = "linkedin"
-    weight = 4
+
+[[menu.icon]]
+    url = "https://www.facebook.com/conamex"
+    name = "facebook"
